@@ -1,0 +1,40 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Volvo",
+      "year": 2012,
+      "motor": "Silniki w pojazdach samochodowych o dopuszczalnej masie całkowitej powyżej 3,5 Mg zarejestrowanych po raz pierwszy po dniu 30.09.2009 r. lub z dokumentem potwierdzającym spełnienie wymagań EURO 5",
+      "fuel": "olej napędowy",
+      "price": 3.2,
+      "number": 1.45
+    },
+    {
+      "id": 2,
+      "name": "Renault",
+      "year": 2002,
+      "motor": "Silniki w pojazdach samochodowych o dopuszczalnej masie całkowitej powyżej 3,5 Mg zarejestrowanych po raz pierwszy po dniu 30.09.2009 r. lub z dokumentem potwierdzającym spełnienie wymagań EURO 5",
+      "fuel": "olej napędowy",
+      "price": 4.2,
+      "number": 11.45
+    },
+    {
+      "id": 3,
+      "name": "Renault",
+      "year": 2002,
+      "motor": "Silniki w pojazdach samochodowych o dopuszczalnej masie całkowitej powyżej 3,5 Mg zarejestrowanych po raz pierwszy po dniu 30.09.2009 r. lub z dokumentem potwierdzającym spełnienie wymagań EURO 5",
+      "fuel": "olej napędowy",
+      "price": 4.2,
+      "number": 11.45
+    },
+    {
+      "id": 4,
+      "name": "Renault",
+      "year": 2002,
+      "motor": "Silniki w pojazdach samochodowych o dopuszczalnej masie całkowitej powyżej 3,5 Mg zarejestrowanych po raz pierwszy po dniu 30.09.2009 r. lub z dokumentem potwierdzającym spełnienie wymagań EURO 5",
+      "fuel": "olej napędowy",
+      "price": 4.2,
+      "number": 11.45
+    }
+  ]
+}

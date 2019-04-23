@@ -1,0 +1,40 @@
+{
+  "cars": [
+    {
+      "name": "Volvo",
+      "year": "2018",
+      "motor": "1",
+      "fuel": "olej napędowy ON",
+      "price": 6.16,
+      "number": "4300",
+      "id": 33
+    },
+    {
+      "name": "MAN",
+      "year": "2008",
+      "motor": "3",
+      "fuel": "olej napędowy ON",
+      "price": "12.22",
+      "number": "5000",
+      "id": 34
+    },
+    {
+      "name": "Scania",
+      "year": "2011",
+      "motor": "6",
+      "fuel": "olej napędowy ON",
+      "price": 59.18,
+      "number": "1000",
+      "id": 38
+    },
+    {
+      "name": "Scania",
+      "year": "2012",
+      "motor": "3",
+      "fuel": "olej napędowy ON",
+      "price": 12.23,
+      "number": "7000",
+      "id": 39
+    }
+  ]
+}
